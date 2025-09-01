@@ -60,5 +60,5 @@ Future improvements might include:
 ---
 
 ## 📜 License  
-This project is released under the **Creative Commons BY-NC-SA 4.0** license.  
-Non-commercial sharing and remixing allowed with attribution.  
+This project is released under the **GNU v3** license.  
+
